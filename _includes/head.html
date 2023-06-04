@@ -1,5 +1,32 @@
-    <!-- Metadata, OpenGraph and Schema.org -->
-    {% include metadata.html %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>
+    {% if site.title == "blank" %}
+    {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+    {% if page.title != "blank" and page.url != "/" %}
+      | {{ page.title }}
+    {% endif %}
+    </title>
+<!--     </title>
+    {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+    </title> -->
+
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- Open Graph -->
+    {% if site.serve_og_meta %}
+    <meta property="og:site_name" content="{{ site.description }}" />
+    <meta property="og:type" content="object" />
+    <meta property="og:title" content="{{ site.name }}" />
+    <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:description" content="{{ page.title }}" />
+    <meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
+    {% endif %}
 
     <!-- Bootstrap & MDB -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@{{ site.bootstrap.version }}/dist/css/bootstrap.min.css" rel="stylesheet" integrity="{{ site.bootstrap.integrity.css }}" crossorigin="anonymous">

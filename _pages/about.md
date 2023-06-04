@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+# subtitle: 
 
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,8 +22,8 @@ social: false  # includes social icons at the bottom of the page
 **<font color="gray" size=4 face="">Master student</font>** \
 **<font color="gray" size=4 face="">School of Electronic Engineering</font>** \
 **<font color="gray" size=4 face="">Xidian University</font>** \
-\
-**<font color="Teal" size=4 face="">Email: lxy771258012 [AT] 163 [dot] com</font>** \
+**<font color="Teal" size=4 face="">Email: lxy771258012 [AT] 163 [dot] com</font>** 
+\\
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**

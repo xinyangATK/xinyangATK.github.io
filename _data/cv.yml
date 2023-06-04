@@ -1,92 +1,90 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Information and Telecommunication Engineering
+      institution: Xidian University, Xi'an, China
+      year: 2021 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Advised by <a href="https://web.xidian.edu.cn/bchen/">Bo Chen</a>
+    - title: B.S. in Electronic Information Engineering
+      institution: Xidian University, Xi'an, China
+      year: 2017 - 2021
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Professor of Theoretical Physics
+#       institution: Institute for Advanced Study, Princeton University
+#       year: 1933 - 1955
+#       description:
+#         - Description 1.
+#         - Description 2.
+#         - title: Description 3.
+#           contents:
+#             - Sub-description 1.
+#             - Sub-description 2.
+#     - title: Visiting Professor
+#       institution: California Institute of Technology, Pasadena, California, US
+#       year: 1933
+#       description:
+#         - Description 1.
+#         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+#     - title: Director
+#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+#       year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+#     - title: Professor of Theoretical Physics
+#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#       year: 1911 - 1917
+#       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+#     - title: Associate Professor of Theoretical Physics
+#       institution: University of Zurich, Zurich, Switzerland
+#       year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/BoChenGroup/PyDPM">PyDPM</a>
+      year: 2022 - 
+      description: A python library focuses on constructing Deep Probabilistic Models (DPMs).
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <strong>Bronze Medal</strong>, The 2019 ICPC Asia-East Continent Final, Xi'an
+        - <strong>Bronze Medal</strong>, The 2019 ICPC Asia Regional Contest, Yinchuan Site
+        - <strong>Silver Medal</strong>, The 2019 ICPC China Shaanxi Provincial Programming Contest
+        - <strong>1st Prize (9/325)</strong>, The 17th Programming Contest of Xidian University
+    - year: 2018
       items: 
-        - Max Planck Medal
+        - <strong>Scientific and Technological Progress Scholarship</strong>, Xidian University
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Generative Models
       items: 
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title: Domain Adaption
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Few-Shot Learning
       items:
         - Description 1.
         - Description 2.

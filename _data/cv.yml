@@ -1,12 +1,12 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Xinyang Liu
+    - name: Contact
+      value: xinyangATK [at] stu [dot] xidian [dot] edu [dot] cn #, lxy771258012 [at] 163 [dot] com
+    - name: Languages
+      value: Chinese(native), English
 
 - title: Education
   type: time_table
@@ -78,18 +78,17 @@
   contents:
     - title: Generative Models
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Domain Adaption
+        - <b>Image Generation</b>
+        - <b>Applications with Generative Modles</b> (especially diffusion models)
+        - <b>Topic Models</b>
+    - title: Others
       items:
-        - Description 1.
-        - Description 2.
-    - title: Few-Shot Learning
-      items:
-        - Description 1.
-        - Description 2.
+        - <b>Prompt Learning</b>
+        - <b>Large Language Models</b>
+        - <b>Few-Shot Learning</b>
+        - <b>...</b>
 
-- title: Other Interests
+- title: Balance
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Go(weiqi), Basketball, Reading, Travel and Exploration.

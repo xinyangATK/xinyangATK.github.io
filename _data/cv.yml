@@ -15,10 +15,12 @@
       institution: Xidian University, Xi'an, China
       year: 2021 -
       description:
-        - Advised by <a href="https://web.xidian.edu.cn/bchen/">Prof. Bo Chen</a> and <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> 
+        - Advised by <a href="https://web.xidian.edu.cn/bchen/">Prof. Bo Chen</a> 
     - title: B.S. in Electronic Information Engineering
       institution: Xidian University, Xi'an, China
       year: 2017 - 2021
+
+# and <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> 
 
 # - title: Experience
 #   type: time_table

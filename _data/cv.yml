@@ -15,7 +15,7 @@
       institution: Xidian University, Xi'an, China
       year: 2021 -
       description:
-        - Advised by <a href="https://web.xidian.edu.cn/bchen/">Bo Chen</a>
+        - Advised by <a href="https://web.xidian.edu.cn/bchen/">Prof. Bo Chen</a> and 
     - title: B.S. in Electronic Information Engineering
       institution: Xidian University, Xi'an, China
       year: 2017 - 2021
@@ -58,7 +58,7 @@
   contents:
     - title: <a href="https://github.com/BoChenGroup/PyDPM">PyDPM</a>
       year: 2022 - 
-      description: A python library focuses on constructing Deep Probabilistic Models (DPMs).
+      description: A python library focuses on constructing <strong>D</strong>eep <strong>P</strong>robabilistic <strong>M</strong>odels <strong>(DPMs)</strong>.
 
 - title: Honors and Awards
   type: time_table
@@ -76,19 +76,20 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Generative Models
+    - title: Generative Modeling
       items: 
         - <b>Image Generation</b>
-        - <b>Applications with Generative Modles</b> (especially diffusion models)
-        - <b>Topic Models</b>
+        - <b>Applications on downstream tasks with Generative Modles</b> (especially diffusion models)
+        - <b>Topic Modeling</b>
     - title: Others
       items:
         - <b>Prompt Learning</b>
-        - <b>Large Language Models</b>
+        - <b>Graph Representation Learning</b>
         - <b>Few-Shot Learning</b>
+        - <b>Optimal theory and its application in machine learning</b>
         - <b>...</b>
 
-- title: Balance
+- title: Hobbies
   type: list
   contents:
     - Go(weiqi), Basketball, Reading, Travel and Exploration.

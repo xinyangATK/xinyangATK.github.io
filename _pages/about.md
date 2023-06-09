@@ -17,7 +17,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
 # Xinyang Liu (刘昕洋) 
 **<font color="gray" size=4 face="">Master student</font>** \
 **<font color="gray" size=4 face="">School of Electronic Engineering</font>** \

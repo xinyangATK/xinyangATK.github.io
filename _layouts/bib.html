@@ -122,7 +122,7 @@
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.year -%}
-          {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
+          {%- capture entryyear -%}{{ " " }}<em>{{entry.year}}</em>{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}

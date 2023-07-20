@@ -21,3 +21,18 @@
   abstract={Deep topic models have shown an impressive abil- ity to extract multi-layer document latent repre- sentations and discover hierarchical semantically meaningful topics. However, most deep topic models are limited to the single-step generative process, despite the fact that the progressive gen- erative process has achieved impressive perfor- mance in modeling image data. To this end, in this paper, we propose a novel progressive deep topic model that consists of a knowledge-informed tex- tural data coarsening process and a correspond- ing progressive generative model. The former is used to build multi-level observations ranging from concrete to abstract, while the latter is used to generate more concrete observations gradually. Additionally, we incorporate a graph-enhanced de- coder to capture the semantic relationships among words at different levels of observation. Further- more, we perform a theoretical analysis of the proposed model based on the principle of informa- tion theory and show how it can alleviate the well- known “latent variable collapse” problem. Finally, extensive experiments demonstrate that our pro- posed model effectively improves the ability of deep topic models, resulting in higher-quality la- tent document representations and topics.},
   selected={true},
 }
+
+
+@article{li2023patchct,
+      title={PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification}, 
+      author={Li*, Miaoge and Wang*, Dongsheng and Liu, Xinyang, and  Zeng, Zequn and Lu, Ruiying and Chen, Bo and Zhou, Mingyuan},
+      journal={The IEEE/CVF International Conference on Computer Vision (<strong>ICCV</strong>)},
+      year={2023},
+      preview={PatchCT.png},
+      abstract={Multi-label image classification is a prediction task that aims to identify more than one label from a given image. This paper considers the semantic consistency of the latent space between the visual patch and linguistic label domains and introduces the conditional transport (CT) theory to bridge the acknowledged gap. While recent cross-modal attention-based studies have attempted to align such two representations and achieved impressive performance, they required carefully-designed alignment modules and extra complex operations in the attention computation. We find that by formulating the multi-label classification as a CT problem, we can exploit the interactions between the image and label efficiently by minimizing the bidirectional CT cost. Specifically, after feeding the images and textual labels into the modality-specific encoders, we view each image as a mixture of patch embeddings and a mixture of label embeddings, which capture the local region features and the class prototypes, respectively. CT is then employed to learn and align those two semantic sets by defining the forward and backward navigators. Importantly, the defined navigators in CT distance model the similarities between patches and labels, which provides an interpretable tool to visualize the learned prototypes. Extensive experiments on three public image benchmarks show that the proposed model consistently outperforms the previous methods.},
+      arxiv={2307.09066},
+      code={https://github.com/keepgoingjkg/PatchCT},
+}
+
+
+

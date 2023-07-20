@@ -13,6 +13,16 @@
 "Duan":
   - firstname: ["Zhibin"]
     url: https://scholar.google.com/citations?hl=zh-CN&user=bITyHaEAAAAJ
+
+"Zeng":
+  - firstname: ["Zequn"]
+    url: https://joeyz0z.github.io
+
+"Lu":
+  - firstname: ["Ruiying"]
+    url: https://web.xidian.edu.cn/luruiying/
+
+
 # "Adams":
 #   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
 #     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

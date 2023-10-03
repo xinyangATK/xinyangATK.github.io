@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-02-15
-inline: true
+inline: false
 ---
 
 :fire::fire::fire: We have open sourced a new version of **[PyDPM](https://github.com/BoChenGroup/PyDPM)**, and welcome to join the open source library of deep probabilistic models!

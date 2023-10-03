@@ -1,6 +1,16 @@
 ---
 ---
 
+@article{wang2023align,
+      title={Tuning Multi-mode Token-level Prompt Alignment across Modalities}, 
+      author={Wang, Dongsheng and Li, Miaoge and Liu, Xinyang, and  Xu Mingsheng and Chen, Bo and Zhang Hanwang},
+      journal={37th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)},
+      year={2023},
+      preview={ALIGN.png},
+      abstract={Prompt tuning pre-trained vision-language models have demonstrated significant potential in improving  open-world visual concept understanding. However, prior works only primarily focus on single-mode (only one prompt for each modality) and holistic level (image or sentence) semantic alignment, which fails to capture the sample diversity, leading to sub-optimal prompt discovery. To address the limitation, we propose a multi-mode token-level tuning framework that leverages the optimal transportation to learn and align a set of prompt tokens across modalities. Specifically, we rely on two essential factors: 1) multi-mode prompts discovery, which guarantees diverse semantic representations, and 2) token-level alignment, which helps explore fine-grained similarity. Thus, the similarity can be calculated as a hierarchical transportation problem between the modality-specific sets. Extensive experiments on popular image recognition benchmarks show the superior generalization and few-shot abilities of our approach. The qualitative analysis demonstrates that the learned prompt tokens have the ability to capture diverse visual concepts.},
+      code={https://github.com/wds2014/ALIGN},
+}
+
 @article{li2023patchct,
       title={PatchCT: Aligning Patch Set and Label Set with Conditional Transport for Multi-Label Image Classification}, 
       author={Li*, Miaoge and Wang*, Dongsheng and Liu, Xinyang, and  Zeng, Zequn and Lu, Ruiying and Chen, Bo and Zhou, Mingyuan},
@@ -29,7 +39,7 @@
   journal={In the 40th International Conference on Machine Learning (<strong>ICML</strong>)},
   year={2023},
   preview={ProGBN.png},
-  abstract={Deep topic models have shown an impressive abil- ity to extract multi-layer document latent repre- sentations and discover hierarchical semantically meaningful topics. However, most deep topic models are limited to the single-step generative process, despite the fact that the progressive gen- erative process has achieved impressive perfor- mance in modeling image data. To this end, in this paper, we propose a novel progressive deep topic model that consists of a knowledge-informed tex- tural data coarsening process and a correspond- ing progressive generative model. The former is used to build multi-level observations ranging from concrete to abstract, while the latter is used to generate more concrete observations gradually. Additionally, we incorporate a graph-enhanced de- coder to capture the semantic relationships among words at different levels of observation. Further- more, we perform a theoretical analysis of the proposed model based on the principle of informa- tion theory and show how it can alleviate the well- known “latent variable collapse” problem. Finally, extensive experiments demonstrate that our pro- posed model effectively improves the ability of deep topic models, resulting in higher-quality la- tent document representations and topics.},
+  abstract={Deep topic models have shown an impressive ability to extract multi-layer document latent representations and discover hierarchical semantically meaningful topics. However, most deep topic models are limited to the single-step generative process, despite the fact that the progressive generative process has achieved impressive performance in modeling image data. To this end, in this paper, we propose a novel progressive deep topic model that consists of a knowledge-informed textural data coarsening process and a corresponding progressive generative model. The former is used to build multi-level observations ranging from concrete to abstract, while the latter is used to generate more concrete observations gradually. Additionally, we incorporate a graph-enhanced decoder to capture the semantic relationships among words at different levels of observation. Furthermore, we perform a theoretical analysis of the proposed model based on the principle of information theory and show how it can alleviate the wellknown “latent variable collapse” problem. Finally, extensive experiments demonstrate that our proposed model effectively improves the ability of deep topic models, resulting in higher-quality latent document representations and topics.},
   pdf={https://proceedings.mlr.press/v202/duan23c.html},
   code={https://github.com/xinyangATK/ProGBN},
   selected={true},

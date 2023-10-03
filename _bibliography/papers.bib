@@ -1,9 +1,18 @@
 ---
 ---
 
+@article{xu2023metacetm,
+      title={Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes}, 
+      author={Xu Yishi and Sun Jianqiao and Su Yudi and Liu, Xinyang, and Duan Zhibin and Chen, Bo and Zhou Mingyuan},
+      journal={37th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)},
+      year={2023},
+      preview={Meta_CETM.png},
+      abstract={Embedding-based neural topic models have been shown as superior options for few-shot topic modeling. However, existing approaches treat the static word embeddings learned from source tasks as transferable knowledge which can be directly applied to the target task, ignoring the fact that word meanings can vary across tasks with different contexts, thus leading to suboptimal results when adapting to new tasks with novel contexts. To address the issue, in this paper, we propose an effective approach for topic modeling under the low-resource regime, the core of which is the adaptive generation of semantic matching word embeddings by integrating the contextual information of each task. Concretely, we introduce a variational graph autoencoder to learn task-specific word embeddings based on the dependency graph refined from the context of each task, with a learnable Gaussian mixture prior to capture the clustering structure of distributed word representations. This is naturally connected to topic modeling by regarding each component of the mixture as the representation of a topic, which facilitates the discovery of diverse topics and the fast adaptation to novel tasks. Both quantitative and qualitative experiments demonstrate the superiority of our method against established topic models.},
+}
+
 @article{wang2023align,
       title={Tuning Multi-mode Token-level Prompt Alignment across Modalities}, 
-      author={Wang, Dongsheng and Li, Miaoge and Liu, Xinyang, and  Xu Mingsheng and Chen, Bo and Zhang Hanwang},
+      author={Wang, Dongsheng and Li, Miaoge and Liu, Xinyang, and Xu Mingsheng and Chen, Bo and Zhang Hanwang},
       journal={37th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)},
       year={2023},
       preview={ALIGN.png},

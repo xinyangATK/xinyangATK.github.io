@@ -30,7 +30,7 @@ Howdy! I am currently a final-year Master student in the School of Electronic En
 
 **My research interests** lie in the general area of machine learning, particularly in probabilistic inference and deep learning. My recent researches focus on Generative Modeling and Representation Learning as well as their applications in image generation, text analysis, graph learning and transfer learning.
 
-:fire::fire::fire:**I'm looking for PhD 25Fall!!!**
+:fire::fire::fire:**I'm looking for PhD 25Fall!**
 
- Welcome collaboration about Generative AI, Multi/Cross-Modal Representation Learning, Graph Representation Learning ANYTIME!!!
+ Welcome collaboration about Generative AI and Multi/Cross-Modal Representation Learning anytime!
  

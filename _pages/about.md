@@ -26,7 +26,9 @@ social: false  # includes social icons at the bottom of the page
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
-Howdy! I am currently a 2th-year Master student in the School of Electronic Engineering, Xidian University, advised by [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/). And I am also advised by [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor and Curtis Mathes Memorial Fellow at the University of Texas at Austin. Previously, I obtained my bachelor's degree from Xidian University in 2021. 
+Howdy! I am currently a final-year Master student in the School of Electronic Engineering, Xidian University, advised by [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/). And I am also advised by [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor and Curtis Mathes Memorial Fellow at the University of Texas at Austin. Previously, I obtained my bachelor's degree from Xidian University in 2021. 
 
 **My research interests** lie in the general area of machine learning, particularly in probabilistic inference and deep learning. My recent researches focus on Generative Modeling and Representation Learning as well as their applications in image generation, text analysis, graph learning and transfer learning.
+
+:fire::fire::fire: **I'm looking for PhD 25Fall and welcome collaboration about Generative AI, Multi/Cross-Modal Representation Learning or Embodied AI(very interestied) anytime**
  

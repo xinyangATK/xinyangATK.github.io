@@ -13,6 +13,17 @@
   selected={true},
 }
 
+@article{liu2023patch,
+  title={Patch-Prompt Aligned Bayesian Prompt Tuning for Vision-Language Models},
+  author={Liu*, Xinyang and Wang*, Dongsheng and Fang, Bowei and Li, Miaoge and Duan, Zhibin and Xu, Yishi and Chen, Bo and Zhou, Mingyuan},
+  journal={Proceedings of the 40th Conference on Uncertainty in Artificial Intelligence (<strong>UAI 2024<strong>)},
+  year={2024},
+  preview={PBPrompt.png},
+  abstract={For downstream applications of vision-language pre-trained models, there has been significant interest in constructing effective prompts. Existing works on prompt engineering, which either require laborious manual designs or optimize the prompt tuning as a point estimation problem, may fail to describe diverse characteristics of categories and limit their applications. We introduce a Bayesian probabilistic resolution to prompt learning, where the label-specific stochastic prompts are generated hierarchically by first sampling a latent vector from an underlying distribution and then employing a lightweight generative model. Importantly, we semantically regularize prompt learning with the visual knowledge and view images and the corresponding prompts as patch and token sets under optimal transport, which pushes the prompt tokens to faithfully capture the label-specific visual concepts, instead of overfitting the training categories. Moreover, the proposed model can also be straightforwardly extended to the conditional case where the instance-conditional prompts are generated to improve the generalizability. Extensive experiments on 15 datasets show promising transferability and generalization performance of our proposed model.},
+  arxiv={2303.09100},
+  selected={true},
+}
+
 @article{xu2023metacetm,
       title={Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes}, 
       author={Xu, Yishi and Sun, Jianqiao and Su, Yudi and Liu, Xinyang, and Duan, Zhibin and Chen, Bo and Zhou, Mingyuan},
@@ -42,16 +53,6 @@
       code={https://github.com/keepgoingjkg/PatchCT},
 }
 
-@article{liu2023patch,
-  title={Patch-Prompt Aligned Bayesian Prompt Tuning for Vision-Language Models},
-  author={Liu*, Xinyang and Wang*, Dongsheng and Fang, Bowei and Li, Miaoge and Duan, Zhibin and Xu, Yishi and Chen, Bo and Zhou, Mingyuan},
-  journal={Proceedings of the 40th Conference on Uncertainty in Artificial Intelligence (<strong>UAI 2024<strong>)},
-  year={2024},
-  preview={PBPrompt.png},
-  abstract={For downstream applications of vision-language pre-trained models, there has been significant interest in constructing effective prompts. Existing works on prompt engineering, which either require laborious manual designs or optimize the prompt tuning as a point estimation problem, may fail to describe diverse characteristics of categories and limit their applications. We introduce a Bayesian probabilistic resolution to prompt learning, where the label-specific stochastic prompts are generated hierarchically by first sampling a latent vector from an underlying distribution and then employing a lightweight generative model. Importantly, we semantically regularize prompt learning with the visual knowledge and view images and the corresponding prompts as patch and token sets under optimal transport, which pushes the prompt tokens to faithfully capture the label-specific visual concepts, instead of overfitting the training categories. Moreover, the proposed model can also be straightforwardly extended to the conditional case where the instance-conditional prompts are generated to improve the generalizability. Extensive experiments on 15 datasets show promising transferability and generalization performance of our proposed model.},
-  arxiv={2303.09100},
-  selected={true},
-}
 
 @article{mlr-v202-duan23c,
   title={Bayesian Progressive Deep Topic Model with Knowledge Informed Textual Data Coarsening Process},

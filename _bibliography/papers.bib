@@ -1,6 +1,18 @@
 ---
 ---
 
+@article{he2024betagraph,
+  title={Advancing Graph Generation through Beta Diffusion},
+  author={He*, Yilin and Liu*, Xinyang and Chen, Bo and Zhou, Mingyuan},
+  journal={under review},
+  year={2024},
+  preview={},
+  abstract={Diffusion models have demonstrated effectiveness for generating natural images and have since been adapted to generate diverse types of data, including graphs. While this emerging family of diffusion-based graph generative models has shown remarkable performance gains over predecessors that rely on variational autoencoders or generative adversarial networks, it is important to note that the majority of these models utilize Gaussian or categorical-based diffusion processes, which may encounter difficulties when modeling sparse and long-tailed data distributions. In our work, we introduce Graph Beta Diffusion (GBD), a diffusion-based generative model adept at modeling diverse graph structures. Focusing on the sparse and range-bounded characteristics of graph adjacency matrices, GBD employs a beta diffusion process to ensure that the initial distribution aligns with the beta distribution, which is well-suited for modeling such data types. To enhance the realism of generated graphs further, we introduce a modulation technique that stabilizes the generation of important graph structures while maintaining flexibility for the rest. The superior performance of GBD in generating graphs, as demonstrated across three generic graph benchmarks and two biochemical graph benchmarks, underscores its effectiveness in capturing the complexities of real-world graph data.},
+  pdf={GBD.png},
+  code={},
+  selected={true},
+}
+
 @article{xu2023metacetm,
       title={Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes}, 
       author={Xu, Yishi and Sun, Jianqiao and Su, Yudi and Liu, Xinyang, and Duan, Zhibin and Chen, Bo and Zhou, Mingyuan},
@@ -31,10 +43,10 @@
 }
 
 @article{liu2023patch,
-  title={Patch-Token Aligned Bayesian Prompt Learning for Vision-Language Models},
-  author={Liu*, Xinyang and Wang*, Dongsheng and Li, Miaoge and Duan, Zhibin and Xu, Yishi and Chen, Bo and Zhou, Mingyuan},
-  journal={arXiv preprint arXiv:2303.09100},
-  year={2023},
+  title={Patch-Prompt Aligned Bayesian Prompt Tuning for Vision-Language Models},
+  author={Liu*, Xinyang and Wang*, Dongsheng and Fang, Bowei and Li, Miaoge and Duan, Zhibin and Xu, Yishi and Chen, Bo and Zhou, Mingyuan},
+  journal={Proceedings of the 40th Conference on Uncertainty in Artificial Intelligence (<strong>UAI 2024<strong>)},
+  year={2024},
   preview={PBPrompt.png},
   abstract={For downstream applications of vision-language pre-trained models, there has been significant interest in constructing effective prompts. Existing works on prompt engineering, which either require laborious manual designs or optimize the prompt tuning as a point estimation problem, may fail to describe diverse characteristics of categories and limit their applications. We introduce a Bayesian probabilistic resolution to prompt learning, where the label-specific stochastic prompts are generated hierarchically by first sampling a latent vector from an underlying distribution and then employing a lightweight generative model. Importantly, we semantically regularize prompt learning with the visual knowledge and view images and the corresponding prompts as patch and token sets under optimal transport, which pushes the prompt tokens to faithfully capture the label-specific visual concepts, instead of overfitting the training categories. Moreover, the proposed model can also be straightforwardly extended to the conditional case where the instance-conditional prompts are generated to improve the generalizability. Extensive experiments on 15 datasets show promising transferability and generalization performance of our proposed model.},
   arxiv={2303.09100},
@@ -52,6 +64,7 @@
   code={https://github.com/xinyangATK/ProGBN},
   selected={true},
 }
+
 
 
 

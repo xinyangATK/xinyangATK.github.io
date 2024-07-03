@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 **<font color="gray" size=4 face="">Master student</font>** \
 **<font color="gray" size=4 face="">School of Electronic Engineering</font>** \
 **<font color="gray" size=4 face="">Xidian University</font>** \
-**<font color="Teal" size=4 face="">Email: lxy771258012 [AT] 163 [dot] com</font>** 
+**<font color="Teal" size=4 face="">Email: xinyangATK [AT] gmail [dot] com</font>** 
 \\
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 

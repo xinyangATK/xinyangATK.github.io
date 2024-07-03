@@ -4,7 +4,7 @@
     - name: Full Name
       value: Xinyang Liu
     - name: Contact
-      value: xinyangATK [at] stu [dot] xidian [dot] edu [dot] cn #, lxy771258012 [at] 163 [dot] com
+      value: xinyangATK [at] gmail [dot] com  #, lxy771258012 [at] 163 [dot] com
     - name: Languages
       value: Chinese(native), English
 
@@ -13,7 +13,7 @@
   contents:
     - title: M.S. in Information and Telecommunication Engineering
       institution: Xidian University, Xi'an, China
-      year: 2021 -
+      year: 2021 - 2024
       description:
         - Advised by <a href="https://web.xidian.edu.cn/bchen/">Prof. Bo Chen</a> 
     - title: B.S. in Electronic Information Engineering
@@ -80,19 +80,20 @@
   contents:
     - title: Generative Modeling
       items: 
-        - <b>Image Generation</b>
+        - <b>Data generation</b> (Image, Graph and Text)
+        - <b>Theoretical analysis on sampling</b>
         - <b>Applications on downstream tasks with Generative Modles</b> (especially diffusion models)
-        - <b>Topic Modeling</b>
+        - <b>Topic modeling</b>
     - title: Others
       items:
-        - <b>Prompt Learning</b>
-        - <b>Graph Representation Learning</b>
-        - <b>Few-Shot Learning</b>
-        - <b>Optimal theory and its application in machine learning</b>
+        - <b>Multi/Cross-Modal representation learning</b>
+        - <b>Graph representation learning</b>
+        - <b>Few/Zero-shot learning and domain generalization.</b>
+        - <b>Any interesting/useful machine learning theory that can apply to solving practical problems.</b>
         - <b>...</b>
 
 - title: Hobbies
   type: list
   contents:
-    - Go(weiqi), Basketball, Reading and Travel. 
+    - Go(weiqi), Basketball, Hiking and Thinking. 
     

@@ -8,6 +8,23 @@
     - name: Languages
       value: Chinese(native), English
 
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Generative Modeling
+      items: 
+        - <b>Data generation</b> (Image, Graph and Text)
+        - <b>Theoretical analysis on sampling</b>
+        - <b>Applications on downstream tasks with Generative Modles</b> (especially diffusion models)
+        - <b>Topic modeling</b>
+    - title: Others
+      items:
+        - <b>Multi/Cross-Modal representation learning</b>
+        - <b>Graph representation learning</b>
+        - <b>Few/Zero-shot learning and domain generalization.</b>
+        - <b>Any interesting/useful machine learning theory that can apply to solving practical problems.</b>
+        - <b>...</b>
+
 - title: Education
   type: time_table
   contents:
@@ -75,22 +92,10 @@
       items: 
         - <strong>Scientific and Technological Progress Scholarship</strong>, Xidian University
 
-- title: Research Interests
-  type: nested_list
-  contents:
-    - title: Generative Modeling
-      items: 
-        - <b>Data generation</b> (Image, Graph and Text)
-        - <b>Theoretical analysis on sampling</b>
-        - <b>Applications on downstream tasks with Generative Modles</b> (especially diffusion models)
-        - <b>Topic modeling</b>
-    - title: Others
-      items:
-        - <b>Multi/Cross-Modal representation learning</b>
-        - <b>Graph representation learning</b>
-        - <b>Few/Zero-shot learning and domain generalization.</b>
-        - <b>Any interesting/useful machine learning theory that can apply to solving practical problems.</b>
-        - <b>...</b>
+- title: Professional Services
+  type: time_teble
+  concents: 
+  <\strong>Conference Reviewer<\strong>: NeurIPS (2024), ICML (2024), CVPR (2024).
 
 - title: Hobbies
   type: list

@@ -39,19 +39,14 @@
 
 # and <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> 
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Intern
+      institution: Visual Computing Research Center (VCC), Shenzhen University
+      year: 2024-present
+      description:
+        - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
 #     - title: Visiting Professor
 #       institution: California Institute of Technology, Pasadena, California, US
 #       year: 1933

@@ -44,7 +44,7 @@
   contents:
     - title: Research Intern
       institution: Visual Computing Research Center (VCC), Shenzhen University
-      year: 2024-present
+      year: 2024 - 
       description:
         - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
 #     - title: Visiting Professor
@@ -71,7 +71,7 @@
   type: time_table
   contents:
     - title: <a href="https://github.com/BoChenGroup/PyDPM">PyDPM</a>
-      year: 2022 - 
+      year: 2022 - 2024
       description: A python library focuses on constructing <strong>D</strong>eep <strong>P</strong>robabilistic <strong>M</strong>odels <strong>(DPMs)</strong>.
 
 - title: Honors and Awards

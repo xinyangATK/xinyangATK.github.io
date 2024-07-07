@@ -93,9 +93,9 @@
         - <strong>Scientific and Technological Progress Scholarship</strong>, Xidian University
 
 - title: Professional Services
-  type: time_teble
+  type: list
   concents: 
-  <\strong>Conference Reviewer<\strong>: NeurIPS (2024), ICML (2024), CVPR (2024).
+    - <\strong>Conference Reviewer<\strong>: NeurIPS (2024), ICML (2024), CVPR (2024).
 
 - title: Hobbies
   type: list

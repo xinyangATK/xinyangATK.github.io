@@ -35,8 +35,7 @@ My recent researches focus on **Generative Modeling**, including its theoretical
 :fire::fire::fire:**Now I'm looking for PhD 25 Fall and here is my [CV](https://xinyangatk.github.io/assets/pdf/LXY_CV.pdf)!**
 
 In addition, I am very interested in robot learning, decision-making, and AI4Science within the framework of Generative AI.
-If you share the same research interests with me, welcome to add my WeChat.
-<!-- [Wechat](./assets/img/wechat.jpg). -->
+If you share the same research interests with me, welcome to add my [Wechat](./assets/img/wechat.jpg).
 
 
 

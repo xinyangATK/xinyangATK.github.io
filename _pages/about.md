@@ -26,11 +26,17 @@ social: false  # includes social icons at the bottom of the page
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
-Howdy! I am currently a Master student in the School of Electronic Engineering, Xidian University, advised by [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/). And I am also advised by [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor and Curtis Mathes Memorial Fellow at the University of Texas at Austin. I received my M.Eng degree from Xidian University in 2024. Previously, I obtained my B.Eng degree from Xidian University in 2021. 
+Howdy! Currently, I am a research intern at Purdue University, advised by [Dr. Ruqi Zhang](https://ruqizhang.github.io). Meanwhile, I'm also work closely with [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor at the University of Texas at Austin. I received my M.S degree from Xidian University in 2024, advised by [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/). Previously, I obtained my B.Eng degree from Xidian University in 2021. 
 
-**My research interests** lie in the general area of machine learning, particularly in probabilistic inference and deep learning. My recent researches focus on Generative Modeling and Representation Learning as well as their applications in data generation, multi/cross-modal Learning and few/zero-shot learning.
+**My research interests** lie in the general area of machine learning, particularly in solving practical problems through advanced Generative AI systems. 
+My recent researches focus on **Generative Modeling**, including its theoretical exploration and various applications in data generation and multi/cross-modal learning.
 
-:fire::fire::fire:**I'm looking for PhD 25 Fall!**
 
- Welcome collaboration about Generative AI and Multi/Cross-Modal Representation Learning anytime!
+:fire::fire::fire:**Now I'm looking for PhD 25 Fall and here is my [CV](https://xinyangatk.github.io/assets/pdf/LXY_CV.pdf)!**
+
+In addition, I am very interested in robot learning, decision-making, and AI4Science within the framework of Generative AI.
+If you share the same research interests with me, welcome to add my [Wechat](assets/img/wechat.jpg).
+
+
+
  

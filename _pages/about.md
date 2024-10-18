@@ -32,9 +32,9 @@ Howdy! I am a research intern at Purdue University, advised by [Dr. Ruqi Zhang](
 **My research interests** lie in the general area of machine learning, particularly in solving practical problems through advanced Generative AI systems. 
 My recent researches focus on **Generative Modeling**, including its theoretical exploration and various applications in data generation and multi/cross-modal learning.
 
-:fire::fire::fire: **<font color="Red" size=4 face="">Now I'm looking for PhD 25 Fall and here is my [CV](https://xinyangatk.github.io/assets/pdf/LXY_CV.pdf)!** 
+:fire::fire::fire: <span style="color: red; font-weight: bold; font-size: 18px">Now I'm looking for PhD 25 Fall and here is my [CV](https://xinyangatk.github.io/assets/pdf/LXY_CV.pdf)!</span>。
+**In addition**, I am very interested in robot learning, decision-making, and AI4Science within the framework of Generative AI.
 
-**In addition, I am very interested in robot learning, decision-making, and AI4Science within the framework of Generative AI**.
 If you share the same research interests with me, feel free to reach out or add my [WeChat](./assets/img/wechat.jpg).
 
 

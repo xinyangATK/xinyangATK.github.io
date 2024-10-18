@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
-Howdy! I am a research intern at Purdue University, advised by [Dr. Ruqi Zhang](https://ruqizhang.github.io). I'm also work closely with [Prof. Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor at the University of Texas at Austin. I received my M.S degree from Xidian University in 2024, advised by [Prof. Bo Chen](https://web.xidian.edu.cn/bchen/). Previously, I obtained my B.S degree from Xidian University in 2021. 
+Howdy! I am a research intern at Purdue University, advised by Prof. [Ruqi Zhang](https://ruqizhang.github.io). I'm also work closely with Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor at the University of Texas at Austin. I received my M.S degree from Xidian University in 2024, advised by Prof. [Bo Chen](https://web.xidian.edu.cn/bchen/). Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\
 \\
 **My research interests** lie in the general area of machine learning, particularly in solving practical problems through advanced Generative AI systems. 

@@ -11,17 +11,15 @@
 - title: Research Interests
   type: nested_list
   contents:
-    - title: Generative Modeling
+    - title: Generative Modeling (Theory and Application)
       items: 
-        - <b>Data generation</b> (Image, Graph and Text)
-        - <b>Theoretical analysis on sampling</b>
-        - <b>Applications on downstream tasks with Generative Modles</b> (especially diffusion models)
+        - <b>Diffusion models</b>
+        - <b>Vision-Language Models</b>
     - title: Others
       items:
-        - <b>Multi/Cross-Modal representation learning</b>
-        - <b>Graph representation learning</b>
-        - <b>Few/Zero-shot learning and domain generalization.</b>
-        - <b>Any interesting/useful machine learning theory that can apply to solving practical problems.</b>
+        - <b>Robot learning, decision-making, and AI4Science within the framework of Generative AI<b>
+        - Graph representation learning
+        - Any interesting/useful machine learning theory that can apply to solving practical problems
         - <b>...</b>
 
 - title: Education
@@ -53,7 +51,7 @@
         - Advised by <a href="https://ruqizhang.github.io/">Ruqi Zhang</a>.
     - title: Research Intern
       institution:  The University of Texas at Austin
-      year: 2024 - 
+      year: 2023 - 
       description:
         - Advised by <a href="https://mingyuanzhou.github.io/">Mingyuan Zhou</a>.
 
@@ -82,10 +80,10 @@
 - title: Professional Services
   type: list
   contents:
-    - <strong>Conference Reviewer:</strong> NeurIPS (2024), ICML (2024), CVPR (2024).
+    - <strong>Conference Reviewer:</strong> NeurIPS (2024), ICML (2024), CVPR (2024), ICLR (2025), AISTATS (2025).
 
 - title: Hobbies
   type: list
   contents:
-    - Go(weiqi), Basketball, Hiking and Thinking. 
+    - Go(weiqi), Basketball, Hiking and Philosophy. 
     

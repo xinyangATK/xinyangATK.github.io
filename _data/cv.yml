@@ -16,7 +16,6 @@
         - <b>Data generation</b> (Image, Graph and Text)
         - <b>Theoretical analysis on sampling</b>
         - <b>Applications on downstream tasks with Generative Modles</b> (especially diffusion models)
-        - <b>Topic modeling</b>
     - title: Others
       items:
         - <b>Multi/Cross-Modal representation learning</b>
@@ -39,33 +38,35 @@
 
 # and <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> 
 
+\entrybig
+	{\textbf{Purdue University}}{}
+	{Research Intern, RZ-Lab, Department of Computer Science}{May 2024 - present}
+    Advisor: \href{https://ruqizhang.github.io/}{Ruqi Zhang} \\
+\entrybig
+    {\textbf{The University of Texas at Austin}}{}
+	{Research Intern}{Oct 2023 - present}
+    Advisor: \href{https://mingyuanzhou.github.io}{Mingyuan Zhou} \\
+
 - title: Experience
   type: time_table
   contents:
+    # - title: Research Intern
+    #   institution: Visual Computing Research Center (VCC), Shenzhen University
+    #   year: 2024 - 
+    #   description:
+    #     - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
     - title: Research Intern
-      institution: Visual Computing Research Center (VCC), Shenzhen University
+      institution:  RZ-Lab, Department of Computer Science, Purdue University
       year: 2024 - 
       description:
-        - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+        - Advised by <a href="https://ruqizhang.github.io/">Ruqi Zhang</a>.
+    - title: Research Intern
+      institution:  The University of Texas at Austin
+      year: 2024 - 
+      description:
+        - Advised by <a href="https://mingyuanzhou.github.io/">Mingyuan Zhou</a>.
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
-
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table

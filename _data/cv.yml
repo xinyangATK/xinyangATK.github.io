@@ -14,7 +14,7 @@
     - title: Generative Modeling (Theory and Application)
       items: 
         - <b>Diffusion models</b>
-        - <b>Vision-Language Models</b>
+        - <b>Alignment of Large Foundation Models (LLMs, VLMs)</b>
     - title: Others
       items:
         - <b>Robot learning, decision-making, and AI4Science within the framework of Generative AI<b>

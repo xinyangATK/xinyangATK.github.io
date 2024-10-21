@@ -27,12 +27,14 @@
     url: https://hengrongdu.netlify.app/
 
 "Deng":
-  - firstname: ["Wei]
+  - firstname: ["Wei"]
     url: https://www.weideng.org/
 
 "Zhang":
   - firstname: ["Ruqi"]
     url: https://ruqizhang.github.io/
+
+
 # "Adams":
 #   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
 #     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams

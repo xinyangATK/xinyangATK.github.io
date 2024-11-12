@@ -29,7 +29,7 @@ social: false  # includes social icons at the bottom of the page
 Howdy! I am a research intern at Purdue University, advised by Prof. [Ruqi Zhang](https://ruqizhang.github.io). I'm also work closely with Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io), an Associate Professor at the University of Texas at Austin. I received my M.S degree from Xidian University in 2024, advised by Prof. [Bo Chen](https://web.xidian.edu.cn/bchen/). Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\
 \\
-**My research interests** lie in the general area of machine learning, particularly in solving practical problems through advanced Generative AI systems. 
+**My research interests** lie in the general area of machine learning, particularly in solving real-world problems through advanced Generative AI systems. 
 My recent research focuses on **Generative Modeling**, including its theoretical exploration and various applications in data generation and multi/cross-modal learning.
 
 :fire::fire::fire: <span style="color: red; font-weight: bold; font-size: 18px">Now I'm looking for PhD 25 Fall and here is my [CV](https://xinyangatk.github.io/assets/pdf/LXY_CV.pdf) !</span>

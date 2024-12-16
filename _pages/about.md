@@ -34,7 +34,7 @@ My recent research focuses on **Generative Modeling**, including its theoretical
 
 :fire::fire::fire: <span style="color: red; font-weight: bold; font-size: 18px">Now I'm looking for PhD 25 Fall and here is my [CV](https://xinyangatk.github.io/assets/pdf/LXY_CV.pdf) !</span>
 
-**In addition**, I am also highly interested in robot learning, planning, and agent learning upon Generative AI.
+**In addition**, I am also highly interested in 2D & 3D generation, robot learning, planning, and agent learning upon Generative AI.
 
 If you share the same research interests with me, feel free to reach out or add my [WeChat](./assets/img/wechat.jpg).
 

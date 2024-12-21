@@ -14,12 +14,12 @@
     - title: <strong>Generative Modeling</strong> (Theory and Application)
       items: 
         - <b>Scalable and Powerful Generative Models</b>
-        - <b>2D \& 3D Generation</b>
-        - <b>Robot Learning, Planning and Agent Learning upon Generative AI<\b>
+        - <b>2D & 3D Generation</b>
+        - <b>Robot Learning, Planning and Agent Learning upon Generative AI</b>
     - title: Others
       items:
         - <b>Alignment of Large Foundation Models (LLMs, VLMs)</b>
-        - <b>Multimodal Learning<\b>
+        - <b>Multimodal Learning</b>
         - Graph Representation Learning
         - Any interesting machine learning theory that can contribute to solving real-world problems
         - <b>...</b>

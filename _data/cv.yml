@@ -27,6 +27,11 @@
 - title: Education
   type: time_table
   contents:
+    - title: Ph.D. in Statistics and Data Sciences
+      institution: The University of Texas at Austin, Austin, United States
+      year: 2025 - 
+      description:
+        - Advised by Prof. <a href="https://web.xidian.edu.cn/bchen/">Bo Chen</a> 
     - title: M.S. in Information and Telecommunication Engineering
       institution: Xidian University, Xi'an, China
       year: 2021 - 2024

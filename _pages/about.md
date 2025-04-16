@@ -18,15 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 # **Xinyang Liu (刘昕洋)** 
-**<font color="gray" size=4 face="">Incoming PhD</font>** \
-**<font color="gray" size=4 face="">Department of Statistics and Data Sciences (SDS)</font>** \
-**<font color="gray" size=4 face="">The University of Texas at Austin</font>** \
-**<font color="Teal" size=4 face="">Email: xinyangATK [AT] gmail [dot] com</font>** 
+**<font color="black" size=4 face="">Incoming PhD</font>** \
+**<font color="black" size=4 face="">Department of Statistics and Data Sciences (SDS)</font>** \
+**<font color="BF5701" size=4 face="">The University of Texas at Austin</font>** \
+**<font color="Teal" size=2 face="">Email: xinyangATK [AT] gmail [dot] com</font>** 
 \\
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
-Howdy! I am an incoming PhD student at The University of Texas at Austin, advised by Prof. [Mingyuan Zhou](https://mingyuanzhou.github.io). I'm also work closely with Dr. [Ruqi Zhang](https://ruqizhang.github.io), an Assistant Professor at Purdue University. I received my M.S degree from Xidian University in 2024, advised by Prof. [Bo Chen](https://web.xidian.edu.cn/bchen/). Previously, I obtained my B.S degree from Xidian University in 2021. 
+Howdy! I am an incoming PhD student at The University of Texas at Austin, advised by Prof. [**Mingyuan Zhou**](https://mingyuanzhou.github.io). I'm also work closely with Dr. [**Ruqi Zhang**](https://ruqizhang.github.io), an Assistant Professor at Purdue University. I received my M.S degree from Xidian University in 2024, advised by Prof. [**Bo Chen**](https://web.xidian.edu.cn/bchen/). Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\
 \\
 **My research interests** lie in the general area of probablistic modeling, particularly in solving real-world problems through advanced Generative AI systems. 

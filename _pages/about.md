@@ -15,9 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 # **Xinyang Liu (刘昕洋)** 
 <font color="black" size=4 face="">Incoming PhD</font> 
-\\
 <font color="black" size=4 face="">Department of Statistics and Data Sciences (SDS)</font> 
-\\
 **<font color="BF5701" size=4 face="">The University of Texas at Austin</font>** 
 
 \\
@@ -31,7 +29,7 @@ Howdy! I am an incoming PhD student at The University of Texas at Austin, advise
 \\
 **My research interests** lie in the general area of probablistic modeling, particularly in solving real-world problems through advanced Generative AI systems. 
 My recent research focuses on **Generative Modeling**, including its theoretical exploration and various applications in data generation and multimodal learning. 
-In addition, I am also highly interested in 2D & 3D generation, robot learning, planning, and agent learning upon Generative AI. -->
+I am also highly interested in 2D & 3D generation, robot learning, planning, and agent learning upon Generative AI. 
 
 If you share the same research interests with me, feel free to reach out or add my [WeChat](./assets/img/wechat.jpg).
 

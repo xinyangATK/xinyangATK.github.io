@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 # **Xinyang Liu (刘昕洋)** 
-<font color="black" size=4 face="">Incoming PhD</font>   <font color="black" size=4 face="">Statistics and Data Sciences (SDS)</font>
+<font color="black" size=4 face="">Incoming PhD</font>, <font color="black" size=4 face="">Statistics and Data Sciences (SDS)</font>
 **<font color="BF5701" size=4 face="">The University of Texas at Austin</font>** 
 
 **<font color="Teal" size=4 face="">Email: xinyangATK [AT] gmail [dot] com</font>** 

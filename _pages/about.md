@@ -23,9 +23,9 @@ social: false  # includes social icons at the bottom of the page
 **[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
-Howdy! I am an incoming PhD student at The University of Texas at Austin <img src="/assets/img/ut-logo.png" width="65">, advised by **<u>[Prof. Mingyuan Zhou](https://mingyuanzhou.github.io)</u>**. 
-I'm also work closely with **<u>[Dr. Ruqi Zhang](https://ruqizhang.github.io)</u>**, an Assistant Professor at Purdue University. 
-I received my M.S degree from Xidian University in 2024, advised by **<u>[Prof. Bo Chen](https://web.xidian.edu.cn/bchen/)</u>**. 
+Howdy! I am an incoming PhD student at The University of Texas at Austin <img src="/assets/img/ut-logo.png" width="65">, advised by **[<u>Prof. Mingyuan Zhou</u>](https://mingyuanzhou.github.io)**. 
+I'm also work closely with **[<u>Dr. Ruqi Zhang</u>](https://ruqizhang.github.io)**, an Assistant Professor at Purdue University. 
+I received my M.S degree from Xidian University in 2024, advised by **[<u>Prof. Bo Chen</u>](https://web.xidian.edu.cn/bchen/)**. 
 Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\
 \\

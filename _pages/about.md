@@ -30,7 +30,7 @@ Previously, I obtained my B.S degree from Xidian University in 2021.
 \\
 \\
 **My research interests** lie in the general area of probablistic modeling, particularly in solving real-world problems through advanced Generative AI systems. 
-My recent research focuses on **Generative Modeling**, including its **<u>theoretical exploration and various applications in data generation and multimodal learning.</u>**
+My recent research focuses on **Generative Modeling**, including its **<u>theory exploration and various applications in data generation and multimodal learning.</u>**
 I am also highly interested in 2D & 3D generation, robot learning, planning, and agent learning upon Generative AI. 
 
 If you share the same research interests with me, feel free to reach out or add my [WeChat](./assets/img/wechat.jpg).

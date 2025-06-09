@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 <span style="color: #BF5701; font-size: 1.2em; font-weight: bold;">The University of Texas at Austin</span>
 
 <span style="color: Teal; font-size: 1.0em; font-weight: bold;">Email: xinyangATK [AT] gmail [dot] com</span>\
-**[Google scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
+**[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
 Howdy! I am an incoming PhD student at The University of Texas at Austin <img src="/assets/img/ut-logo.png" width="65">, advised by **[<u>Prof. Mingyuan Zhou</u>](https://mingyuanzhou.github.io)**. 

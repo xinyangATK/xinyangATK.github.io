@@ -23,14 +23,14 @@ social: false  # includes social icons at the bottom of the page
 **[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=9VtswyYAAAAJ) | [Github](https://github.com/xinyangATK) | [Twitter](https://twitter.com/XinyangATK)**
 
 ## **Bio**
-Howdy! I am an incoming PhD student at The University of Texas at Austin <img src="/assets/img/ut-logo.png" width="65">, advised by **[<u>Prof. Mingyuan Zhou</u>](https://mingyuanzhou.github.io)**. 
+Howdy! I am the first-year PhD student at The University of Texas at Austin <img src="/assets/img/ut-logo.png" width="65">, advised by **[<u>Prof. Mingyuan Zhou</u>](https://mingyuanzhou.github.io)**. 
 I'm also work closely with **[<u>Dr. Ruqi Zhang</u>](https://ruqizhang.github.io)**, an Assistant Professor at Purdue University. 
 I received my M.S degree from Xidian University in 2024, advised by **[<u>Prof. Bo Chen</u>](https://web.xidian.edu.cn/bchen/)**. 
 Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\
 \\
 **My research interests** lie in the general area of probablistic modeling, particularly in solving real-world problems through advanced Generative AI systems. 
-My recent research focuses on **Generative Modeling**, including its **<u>theory exploration and various applications in data generation and multimodal learning.</u>**
+My recent research focuses on **Generative Modeling**, including its **<u>theory exploration and various applications in data generation (e.g., dLLMs) and multimodal learning.</u>**
 I am also highly interested in 2D & 3D generation, robot learning, planning, and agent learning upon Generative AI. 
 
 If you share the same research interests with me, feel free to reach out or add my [WeChat](./assets/img/wechat.jpg).

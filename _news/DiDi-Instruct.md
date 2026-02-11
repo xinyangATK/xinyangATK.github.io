@@ -1,11 +1,10 @@
-<!-- ---
+---
 layout: post
 date: 2025-10-01
 inline: true
 ---
 
-Our paper ["Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct"](https://arxiv.org/abs/2509.25035v1) 
+Our paper ["Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct"](https://arxiv.org/abs/2509.25035v2) is accepted by ICLR 2026 🇧🇷⚽️🏖️! Welcome to explore the [project](https://haoyangzheng.github.io/research/didi-instruct/) further for more details!
 
-has been selected for an <strong style="color: red;">Oral Presentation</strong> at <strong>ICML 2025</strong>! Big congratulations to [Tiansheng](https://neilwen987.github.io)! -->
 
 

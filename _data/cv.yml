@@ -15,14 +15,12 @@
       items: 
         - <b>Scalable and Powerful Generative Models</b>
         - <b>2D & 3D Generation</b>
-        - <b>Robot Learning, Planning and Agent Learning upon Generative AI</b>
     - title: Others
       items:
         - <b>Alignment of Large Foundation Models (LLMs, VLMs)</b>
         - <b>Multimodal Learning</b>
         - Graph Representation Learning
         - Any interesting machine learning theory that can contribute to solving real-world problems
-        - <b>...</b>
 
 - title: Education
   type: time_table
@@ -53,12 +51,12 @@
     #     - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
     - title: Research Intern
       institution:  RZ-Lab, Department of Computer Science, Purdue University
-      year: 2024 - 
+      year: 2024 - 2025
       description:
         - Advised by <strong><a href="https://ruqizhang.github.io/" >Dr. Ruqi Zhang</a></strong>.
     - title: Research Intern
       institution:  The University of Texas at Austin
-      year: 2023 - 
+      year: 2023 - 2025
       description:
         - Advised by <strong><a href="https://mingyuanzhou.github.io/">Prof. Mingyuan Zhou</a></strong>.
 

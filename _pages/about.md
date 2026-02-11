@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 # **Xinyang Liu (刘昕洋)** 
 <!-- <font color="black" size=4 face="">Incoming PhD, Statistics and Data Sciences (SDS)</font> -->
-<span style="color: black; font-size: 1.1em;">Incoming PhD,</span>\
+<!-- <span style="color: black; font-size: 1.1em;">Incoming PhD,</span>\ -->
 <span style="color: black; font-size: 1.1em;">Statistics and Data Sciences (SDS)</span>\
 <span style="color: #BF5701; font-size: 1.2em; font-weight: bold;">The University of Texas at Austin</span>
 
@@ -24,7 +24,6 @@ social: false  # includes social icons at the bottom of the page
 
 ## **Bio**
 Howdy! I am the first-year PhD student at The University of Texas at Austin <img src="/assets/img/ut-logo.png" width="65">, advised by **[<u>Prof. Mingyuan Zhou</u>](https://mingyuanzhou.github.io)**. 
-I'm also work closely with **[<u>Dr. Ruqi Zhang</u>](https://ruqizhang.github.io)**, an Assistant Professor at Purdue University. 
 I received my M.S degree from Xidian University in 2024, advised by **[<u>Prof. Bo Chen</u>](https://web.xidian.edu.cn/bchen/)**. 
 Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\

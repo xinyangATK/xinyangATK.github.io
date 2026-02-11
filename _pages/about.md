@@ -28,6 +28,7 @@ I received my M.S degree from Xidian University in 2024, advised by **[<u>Prof. 
 Previously, I obtained my B.S degree from Xidian University in 2021. 
 \\
 \\
+\\
 **My research interests** lie in the general area of probablistic modeling, particularly in solving real-world problems through advanced Generative AI systems. 
 My recent research focuses on **Generative Modeling**, including its **<u>theory exploration and various applications in data generation (e.g., dLLMs) and multimodal learning.</u>** 
 I am currently exploring **all dimensions of diffusion Large Language Models (dLLMs)**, including foundation-model design, inference acceleration, and post-training for downstream tasks.

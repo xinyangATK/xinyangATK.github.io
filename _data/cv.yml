@@ -41,24 +41,24 @@
 
 # and <a href="https://mingyuanzhou.github.io">Prof. Mingyuan Zhou</a> 
 
-- title: Experience
-  type: time_table
-  contents:
-    # - title: Research Intern
-    #   institution: Visual Computing Research Center (VCC), Shenzhen University
-    #   year: 2024 - 
-    #   description:
-    #     - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
-    - title: Research Intern
-      institution:  RZ-Lab, Department of Computer Science, Purdue University
-      year: 2024 - 2025
-      description:
-        - Advised by <strong><a href="https://ruqizhang.github.io/" >Dr. Ruqi Zhang</a></strong>.
-    - title: Research Intern
-      institution:  The University of Texas at Austin
-      year: 2023 - 2025
-      description:
-        - Advised by <strong><a href="https://mingyuanzhou.github.io/">Prof. Mingyuan Zhou</a></strong>.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     # - title: Research Intern
+#     #   institution: Visual Computing Research Center (VCC), Shenzhen University
+#     #   year: 2024 - 
+#     #   description:
+#     #     - Hosted by Dongsheng Wang, Assistant Professor aﬀiliated with VCC.
+#     - title: Research Intern
+#       institution:  RZ-Lab, Department of Computer Science, Purdue University
+#       year: 2024 - 2025
+#       description:
+#         - Advised by <strong><a href="https://ruqizhang.github.io/" >Dr. Ruqi Zhang</a></strong>.
+#     - title: Research Intern
+#       institution:  The University of Texas at Austin
+#       year: 2023 - 2025
+#       description:
+#         - Advised by <strong><a href="https://mingyuanzhou.github.io/">Prof. Mingyuan Zhou</a></strong>.
 
 
 
@@ -69,21 +69,21 @@
       year: 2022 - 2024
       description: A python library focuses on constructing <strong>D</strong>eep <strong>P</strong>robabilistic <strong>M</strong>odels <strong>(DPMs)</strong>.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - <strong>The University-Level First-Class Graduate Scholarship</strong>
-    - year: 2022
-      items:
-        - <strong>The University-Level Second-Class Graduate Scholarship</strong>
-    - year: 2019
-      items: 
-        - <strong>Bronze Medal</strong>, The 2019 ICPC Asia-East Continent Final, Xi'an
-        - <strong>Bronze Medal</strong>, The 2019 ICPC Asia Regional Contest, Yinchuan Site
-        - <strong>Silver Medal</strong>, The 2019 ICPC China Shaanxi Provincial Programming Contest
-        - <strong>1st Prize (9/325)</strong>, The 17th Programming Contest of Xidian University
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2023
+#       items:
+#         - <strong>The University-Level First-Class Graduate Scholarship</strong>
+#     - year: 2022
+#       items:
+#         - <strong>The University-Level Second-Class Graduate Scholarship</strong>
+#     - year: 2019
+#       items: 
+#         - <strong>Bronze Medal</strong>, The 2019 ICPC Asia-East Continent Final, Xi'an
+#         - <strong>Bronze Medal</strong>, The 2019 ICPC Asia Regional Contest, Yinchuan Site
+#         - <strong>Silver Medal</strong>, The 2019 ICPC China Shaanxi Provincial Programming Contest
+#         - <strong>1st Prize (9/325)</strong>, The 17th Programming Contest of Xidian University
     # - year: 2018
     #   items: 
     #     - <strong>Scientific and Technological Progress Scholarship</strong>, Xidian University

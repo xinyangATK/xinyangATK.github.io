@@ -1,6 +1,26 @@
 ---
 ---
 
+@article{Wen2026seqtopk,
+  title={Route Experts by Sequence, not by Token},
+  author={ Wen, Tiansheng and Wang, Yifei and Feng, Aosong and Ma, Long and Liu, Xinyang and Wang, Yifan and Guo, Lixuan and Chen, Bo and Jegelka, Stefanie and You, Chenyu},
+  journal={ArXiv 2511.06494},
+  year={2026},
+  abstract={Mixture-of-Experts (MoE) architectures scale large language models (LLMs) by activating only a subset of experts per token, but the standard TopK routing assigns the same fixed number of experts to all tokens, ignoring their varying complexity. Prior adaptive routing methods introduce additional modules and hyperparameters, often requiring costly retraining from scratch. We propose Sequence-level TopK (SeqTopK), a minimal modification that shifts the expert budget from the token level to the sequence level. By selecting the top T * K experts across all T tokens, SeqTopK enables end-to-end learned dynamic allocation -- assigning more experts to difficult tokens and fewer to easy ones -- while preserving the same overall budget. SeqTopK requires only a few lines of code, adds less than 1% overhead, and remains fully compatible with pretrained MoE models. Experiments across math, coding, law, and writing show consistent improvements over TopK and prior parameter-free adaptive methods, with gains that become substantially larger under higher sparsity (up to 16.9%). These results highlight SeqTopK as a simple, efficient, and scalable routing strategy, particularly well-suited for the extreme sparsity regimes of next-generation LLMs.},
+  arxiv={2511.06494},
+  code={https://github.com/Y-Research-SBU/SeqTopK},
+}
+@article{Hu2026disentangle,
+  title={Disentangled Generative Graph Representation Learning},
+  author={ Hu, Xinyue and Duan, Zhibin and Liu, Xinyang and Li, Yuxin and Chen, Bo and Zhou, Mingyuan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems (<strong>IEEE TNNLS</strong>)},
+  year={2026},
+  preview={diggr.png},
+  abstract={Recently, generative graph models have shown promising results in learning graph representations through self-supervised methods. However, most existing generative graph representation learning (GRL) approaches rely on random masking across the entire graph, which overlooks the entanglement of learned representations. This oversight results in non-robustness and a lack of explainability. Furthermore, disentangling the learned representations remains a significant challenge and has not been sufficiently explored in GRL research. Based on these insights, this paper introduces DiGGR (Disentangled Generative Graph Representation Learning), a self-supervised learning framework. DiGGR aims to learn latent disentangled factors and utilizes them to guide graph mask modeling, thereby enhancing the disentanglement of learned representations and enabling end-to-end joint learning. Extensive experiments on 11 public datasets for two different graph learning tasks demonstrate that DiGGR consistently outperforms many previous self-supervised methods, verifying the effectiveness of the proposed approach.},
+  arxiv={2408.13471},
+  pdf={https://ieeexplore.ieee.org/document/11482527}
+}
+
 @article{Zheng2025didiinstruct,
   title={Ultra-Fast Language Generation via Discrete Diffusion Divergence Instruct},
   author={ Zheng, Haoyang and Liu, Xinyang and Kong, Xiangrui and Jiang, Nan and Hu, Zheyuan and Luo, Weijian and Deng, Wei and Lin, Guang},
@@ -8,7 +28,7 @@
   year={2026},
   preview={DiDi-Instruct.png},
   abstract={Fast generation of language texts is the holy grail that people pursue in the AI era. In this work, we introduced Discrete Diffusion Divergence Instruct (DiDi-Instruct), a training-based method that leads to fast language generation models by initializing from a pre-trained (masked) discrete diffusion language model (dLLM). The resulting DiDi-Instruct model outperforms the dLLM counterparts and the GPT-2 baseline with 64x acceleration. In the theoretical part of the paper, we build the foundation of DiDi-Instruct in a framework of integral KL-divergence minimization, with practical training algorithms. We also introduce techniques like grouped reward normalization, intermediate-state matching, and the reward-guided ancestral sampler (RGAS) that significantly improve the training stability, the model coverage, and the inference performances. On OpenWebText, DiDi-Instruct outperforms all accelerated language generation models as well as the GPT-2 baseline and the standard dLLMs, achieving sample perplexities ranging from 62.2 (8 NFEs) to 18.4 (128 NFEs). These performance gains are accomplished with a negligible entropy loss of about 1% and 20x less additional training wall-clock time. We further validate the robustness and effectiveness of DiDi-Instruct through extensive ablation studies, model scaling, and the generation of discrete protein sequences. In conclusion, DiDi-Instruct is an efficient yet effective distillation method, enabling language generation in the blink of an eye. We will release both code and models at this http URL.},
-  arxiv={2509.25035},
+  arxiv={2408.13471},
   code={https://haoyangzheng.github.io/research/didi-instruct},
   selected={true},
 }
@@ -65,7 +85,7 @@
 @article{wang2024scalable,
   title={Scalable Weibull Graph Attention Autoencoder for Modeling Document Networks},
   author={Wang*, Chaojie and Liu*, Xinyang and Wang, Dongsheng and Zhang, Hao and Chen, Bo and Zhou, Mingyuan},
-  journal={ArXiv 2410.09696, 2024},
+  journal={ArXiv 2410.09696},
   year={2024},
   preview={WGAAE.png},
   abstract={Although existing variational graph autoencoders (VGAEs) have been widely used for modeling and generating graph-structured data, most of them are still not flexible enough to approximate the sparse and skewed latent node representations, especially those of document relational networks (DRNs) with discrete observations. To analyze a collection of interconnected documents, a typical branch of Bayesian models, specifically relational topic models (RTMs), has proven their efficacy in describing both link structures and document contents of DRNs, which motives us to incorporate RTMs with existing VGAEs to alleviate their potential issues when modeling the generation of DRNs. In this paper, moving beyond the sophisticated approximate assumptions of traditional RTMs, we develop a graph Poisson factor analysis (GPFA), which provides analytic conditional posteriors to improve the inference accuracy, and extend GPFA to a multi-stochastic-layer version named graph Poisson gamma belief network (GPGBN) to capture the hierarchical document relationships at multiple semantic levels. Then, taking GPGBN as the decoder, we combine it with various Weibull-based graph inference networks, resulting in two variants of Weibull graph auto-encoder (WGAE), equipped with model inference algorithms. Experimental results demonstrate that our models can extract high-quality hierarchical latent document representations and achieve promising performance on various graph analytic tasks.},

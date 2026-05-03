@@ -31,7 +31,7 @@ Previously, I obtained my B.S degree from Xidian University in 2021.
 \\
 **My research interests** lie in the general area of probablistic modeling, particularly in solving real-world problems through advanced Generative AI systems. 
 My recent research focuses on **Generative Modeling**, including its **<u>theory exploration and various applications in data generation (e.g., dLLMs) and multimodal learning.</u>** 
-I am currently exploring **all dimensions of diffusion Large Language Models (dLLMs)**, including foundation-model design, inference acceleration, and post-training for downstream tasks.
+I am currently exploring **all dimensions of diffusion Large Language Models (dLLMs)**, including foundation-model design, inference acceleration, and post-training for downstream tasks. I am also working on advanced LLM distillation techniques, particularly **On-Policy Distillation, (OPD)**, to unlock reasoning capabilities across varying model scales and adapt them to diverse real-world scenarios.
 
 If you share the same research interests with me, feel free to reach out or add my [WeChat](./assets/img/wechat.jpg).
 

@@ -42,16 +42,52 @@ layout: default
 
           <!-- News -->
           {% if page.news -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
             {%- include news.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
+            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
             <p>(*) denotes equal contribution</p>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <!-- Experience -->
+          <h2>Experience</h2>
+          <style>
+            .exp-list { margin-top: 0.6rem; }
+            .exp-item { display: flex; align-items: center; margin-bottom: 1.15rem; }
+            .exp-logo {
+              width: 64px; height: 64px; flex-shrink: 0; margin-right: 1rem;
+              object-fit: contain;
+            }
+            .exp-body { line-height: 1.45; }
+            .exp-role { font-weight: 700; }
+            .exp-time { color: gray; font-size: 0.9em; }
+            @media (max-width: 576px) {
+              .exp-logo { width: 52px; height: 52px; margin-right: 0.75rem; }
+            }
+          </style>
+          <div class="exp-list">
+            <!-- To add or swap a logo: drop an image into /assets/img/logos/ and point src to it. -->
+            <div class="exp-item">
+              <img class="exp-logo" src="/assets/img/logos/microsoft.png" alt="Microsoft">
+              <div class="exp-body">
+                <span class="exp-role">Research Intern</span> · MAI Superintelligence<br>
+                <span class="exp-time">Redmond, WA · Jun 2026 – Present</span>
+              </div>
+            </div>
+            <!-- Copy this block to add another experience, then replace the logo:
+            <div class="exp-item">
+              <img class="exp-logo" src="/assets/img/logos/placeholder.png" alt="logo">
+              <div class="exp-body">
+                <span class="exp-role">Role</span> · Institution<br>
+                <span class="exp-time">Year – Year</span> · Short description
+              </div>
+            </div>
+            -->
+          </div>
 
           <!-- Social -->
           {%- if page.social %}

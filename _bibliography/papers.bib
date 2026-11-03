@@ -1,16 +1,17 @@
 ---
 ---
 
-@article{Wen2026seqtopk,
-  title={Route Experts by Sequence, not by Token},
-  author={ Wen, Tiansheng and Wang, Yifei and Feng, Aosong and Ma, Long and Liu, Xinyang and Wang, Yifan and Guo, Lixuan and Chen, Bo and Jegelka, Stefanie and You, Chenyu},
-  journal={ArXiv 2511.06494},
+@article{Chen2026system1arena,
+  title={System1-Arena: Which Decisions Can Be Left to System 1?},
+  author={Chen, Tianyu and Liu, Xinyang and An, Ruyi and Wang, Zhendong and Zhou, Mingyuan},
+  journal={ArXiv 2610.21244},
   year={2026},
-  preview={seqtopk.png},
-  abstract={Mixture-of-Experts (MoE) architectures scale large language models (LLMs) by activating only a subset of experts per token, but the standard TopK routing assigns the same fixed number of experts to all tokens, ignoring their varying complexity. Prior adaptive routing methods introduce additional modules and hyperparameters, often requiring costly retraining from scratch. We propose Sequence-level TopK (SeqTopK), a minimal modification that shifts the expert budget from the token level to the sequence level. By selecting the top T * K experts across all T tokens, SeqTopK enables end-to-end learned dynamic allocation -- assigning more experts to difficult tokens and fewer to easy ones -- while preserving the same overall budget. SeqTopK requires only a few lines of code, adds less than 1% overhead, and remains fully compatible with pretrained MoE models. Experiments across math, coding, law, and writing show consistent improvements over TopK and prior parameter-free adaptive methods, with gains that become substantially larger under higher sparsity (up to 16.9%). These results highlight SeqTopK as a simple, efficient, and scalable routing strategy, particularly well-suited for the extreme sparsity regimes of next-generation LLMs.},
-  arxiv={2511.06494},
-  code={https://github.com/Y-Research-SBU/SeqTopK},
+  abstract={Large language models (LLMs) often make discrete decisions, such as flagging phishing or escalating to a human. System-1 models, such as Jev and the OpenAI Decisions API, return probabilities over options in a single forward pass, while System-2 approaches generate reasoning steps. Which decisions can System-1 models handle, and which require generative reasoning? We introduce System1-Arena, a benchmark that gives all models the same decision requests and scores their probabilities. It contains 92k questions across 105 tasks from 268 public sources, in four groups: text classification and knowledge, applied decisions, evaluation and control, and agent and action. It also includes 138 closed-loop environments, from web shopping and SWE-bench coding control to robotics, games, and driving; in real-time mode, the world evolves while a model decides. We evaluate 30 models: 7 closed LLMs, 13 open LLMs read at the answer token, and 10 System-1 models. The largest System-1 models match or exceed fast closed LLMs in non-agentic accuracy, with better-calibrated probabilities at one-quarter of the latency. A reasoning LLM is the most accurate, at about 70x the cost of a fast LLM. In closed loops, large open LLMs succeed most often (up to 32.9%); small System-1 models rarely succeed.},
+  arxiv={2610.21244},
+  code={https://github.com/TianyuCodings/S1-Arena},
+  website={https://tianyucodings.github.io/S1-Arena},
 }
+
 @article{Hu2026disentangle,
   title={Disentangled Generative Graph Representation Learning},
   author={ Hu, Xinyue and Duan, Zhibin and Liu, Xinyang and Li, Yuxin and Chen, Bo and Zhou, Mingyuan},
@@ -31,6 +32,17 @@
   arxiv={2408.13471},
   code={https://haoyangzheng.github.io/research/didi-instruct},
   selected={true},
+}
+
+@article{Wen2025seqtopk,
+  title={Route Experts by Sequence, not by Token},
+  author={Wen, Tiansheng and Wang, Yifei and Feng, Aosong and Ma, Long and Liu, Xinyang and Wang, Yifan and Guo, Lixuan and Chen, Bo and Jegelka, Stefanie and You, Chenyu},
+  journal={ArXiv 2511.06494},
+  year={2025},
+  preview={seqtopk.png},
+  abstract={Mixture-of-Experts (MoE) architectures scale large language models (LLMs) by activating only a subset of experts per token, but the standard TopK routing assigns the same fixed number of experts to all tokens, ignoring their varying complexity. Prior adaptive routing methods introduce additional modules and hyperparameters, often requiring costly retraining from scratch. We propose Sequence-level TopK (SeqTopK), a minimal modification that shifts the expert budget from the token level to the sequence level. By selecting the top T * K experts across all T tokens, SeqTopK enables end-to-end learned dynamic allocation -- assigning more experts to difficult tokens and fewer to easy ones -- while preserving the same overall budget. SeqTopK requires only a few lines of code, adds less than 1% overhead, and remains fully compatible with pretrained MoE models. Experiments across math, coding, law, and writing show consistent improvements over TopK and prior parameter-free adaptive methods, with gains that become substantially larger under higher sparsity (up to 16.9%). These results highlight SeqTopK as a simple, efficient, and scalable routing strategy, particularly well-suited for the extreme sparsity regimes of next-generation LLMs.},
+  arxiv={2511.06494},
+  code={https://github.com/Y-Research-SBU/SeqTopK},
 }
 
 @article{wen2025csr,
@@ -90,6 +102,15 @@
   preview={WGAAE.png},
   abstract={Although existing variational graph autoencoders (VGAEs) have been widely used for modeling and generating graph-structured data, most of them are still not flexible enough to approximate the sparse and skewed latent node representations, especially those of document relational networks (DRNs) with discrete observations. To analyze a collection of interconnected documents, a typical branch of Bayesian models, specifically relational topic models (RTMs), has proven their efficacy in describing both link structures and document contents of DRNs, which motives us to incorporate RTMs with existing VGAEs to alleviate their potential issues when modeling the generation of DRNs. In this paper, moving beyond the sophisticated approximate assumptions of traditional RTMs, we develop a graph Poisson factor analysis (GPFA), which provides analytic conditional posteriors to improve the inference accuracy, and extend GPFA to a multi-stochastic-layer version named graph Poisson gamma belief network (GPGBN) to capture the hierarchical document relationships at multiple semantic levels. Then, taking GPGBN as the decoder, we combine it with various Weibull-based graph inference networks, resulting in two variants of Weibull graph auto-encoder (WGAE), equipped with model inference algorithms. Experimental results demonstrate that our models can extract high-quality hierarchical latent document representations and achieve promising performance on various graph analytic tasks.},
   arxiv={2410.09696},
+}
+
+@article{Wang2023keqing,
+      title={{Keqing}: Knowledge-Based Question Answering Is a Nature Chain-of-Thought Mentor of {LLM}},
+      author={Wang*, Chaojie and Xu*, Yishi and Peng, Zhong and Zhang, Chenxi and Liu, Xinyang and Chen, Bo and Wang, Xinrun and Feng, Lei and An, Bo},
+      journal={ArXiv 2401.00426},
+      year={2023},
+      abstract={Large language models (LLMs) have exhibited remarkable performance on various natural language processing (NLP) tasks, especially for question answering. However, in the face of problems beyond the scope of knowledge, these LLMs tend to talk nonsense with a straight face, where the potential solution could be incorporating an Information Retrieval (IR) module and generating response based on these retrieved knowledge. In this paper, we present a novel framework to assist LLMs, such as ChatGPT, to retrieve question-related structured information on the knowledge graph, and demonstrate that Knowledge-based question answering (Keqing) could be a nature Chain-of-Thought (CoT) mentor to guide the LLM to sequentially find the answer entities of a complex question through interpretable logical chains. Specifically, the workflow of Keqing will execute decomposing a complex question according to predefined templates, retrieving candidate entities on knowledge graph, reasoning answers of sub-questions, and finally generating response with reasoning paths, which greatly improves the reliability of LLM's response. The experimental results on KBQA datasets show that Keqing can achieve competitive performance and illustrate the logic of answering each question.},
+      arxiv={2401.00426},
 }
 
 @article{xu2023metacetm,

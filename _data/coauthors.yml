@@ -1,14 +1,24 @@
 "Wang":
   - firstname: ["Dongsheng", "D"]
     url: https://wds2014.github.io
+  - firstname: ["Yifei", "Y"]
+    url: https://yifeiwang77.com
+  - firstname: ["Zhendong", "Z"]
+    url: https://zhendong-wang.github.io
 
 "Chen":
   - firstname: ["Bo", "B"]
     url: https://web.xidian.edu.cn/bchen
+  - firstname: ["Tianyu", "T"]
+    url: https://tianyucodings.github.io
 
 "Zhou":
   - firstname: ["Mingyuan", "M"]
     url: https://mingyuanzhou.github.io
+
+"An":
+  - firstname: ["Ruyi", "R"]
+    url: https://ruyianry.github.io
 
 "Duan":
   - firstname: ["Zhibin"]
@@ -49,10 +59,6 @@
 "You":
   - firstname: ["Chenyu"]
     url: https://chenyuyou.me
-
-"Wang":
-  - firstname: ["Yifei"]
-    url: https://yifeiwang77.com
 
 "Jegelka":
   - firstname: ["Stefanie"]
